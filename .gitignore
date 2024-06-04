@@ -1,0 +1,7 @@
+*.md
+*tsv
+*csv
+.canvas
+.gif
+.db
+.jpeg
